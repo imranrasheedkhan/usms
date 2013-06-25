@@ -17,9 +17,9 @@ public class MainApp {
 		   BankDetail employeeBankDetail=new BankDetail();
 		   BankAddress bankAddress=new BankAddress();
 		   employee.setName("Tariq");
-		   employee.setAddress("Chennai");
+		   employee.setAddress("Chennai");   
 		   
-		   
+		   //This added to test the comit
 		   employeeBankDetail.setAccountNum("GB48762");
 		   employeeBankDetail.setBankName("CanraBank");
 		   employeeBankDetail.setiFscCode("A26373");
